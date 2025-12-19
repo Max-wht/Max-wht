@@ -1,13 +1,11 @@
 # 🛜 Max
 **`Digital Craftsman (Developer/Creator/collage student)`**
 
-I’m an independent full‑stack developer and content creator, passionate about shaping my own digital universe one project at a time. From planning system architecture and designing intuitive user interfaces to solving real‑world problems with sustainable code, I build every solution from scratch.
-In parallel, I create engaging video content that follows the same philosophy — starting from concept and planning to delivering a polished final product infused with artistry.
-My mission is to combine creativity and technical precision to build meaningful experiences in the digital and decentralized world.
+Don't seek for everything to happen as you wish it would, but rather wish that everything happens as it acturally will.
 
  <p align="left">
       <a href="https://github.com/Max-wht?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Max-wht?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Max-wht?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Max-wht?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>

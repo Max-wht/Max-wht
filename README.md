@@ -69,7 +69,6 @@
 
 <p align="left">
   <img alt="Solidity" title="Solidity" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
-  <img alt="Markdown" title="Markdown" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </p>
 
 **Backend**

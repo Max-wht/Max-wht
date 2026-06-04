@@ -63,39 +63,6 @@
 | WhiteChain | HackenProof | 4 days | 2026-05-13 to 2026-05-16 | 🔵 1 Info |
 | idOS | HackenProof | 4 days | 2026-05-20 to 2026-05-23 | 🔵 1 Info |
 
-## 🧰 Languages and Tools
-
-**Security / Blockchain**
-
-<p align="left">
-  <img alt="Solidity" title="Solidity" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
-</p>
-
-**Backend**
-
-<p align="left">
-  <img alt="Go" title="Go" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img alt="Java" title="Java" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Spring" title="Spring" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="SQL" title="SQL" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-</p>
-
-**Frontend**
-
-<p align="left">
-  <img alt="TypeScript" title="TypeScript" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img alt="JavaScript" title="JavaScript" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="React" title="React" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="HTML5" title="HTML5" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS3" title="CSS3" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-</p>
-
-**Tooling**
-
-<p align="left">
-  <img alt="Git" title="Git" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Node.js" title="Node.js" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</p>
 
 ## 📊 GitHub Stats
 

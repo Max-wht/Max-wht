@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://github.com/Max-wht?tab=followers">
-    <img alt="Follow Max on GitHub" title="Follow Max on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Max-wht?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+    <img alt="Follow Max on GitHub" title="Follow Max on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Max-wht?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" />
   </a>
   <a href="https://github.com/Max-wht?tab=repositories&sort=stargazers">
-    <img alt="GitHub stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/Max-wht?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+    <img alt="GitHub stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/Max-wht?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" />
   </a>
-  <img alt="Profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=Max-wht&style=for-the-badge&color=0e75b6" />
+  <img alt="Profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=Max-wht&amp;style=for-the-badge&amp;color=0e75b6" />
 </p>
 
 <p align="center">
-  <img alt="Solidity Security" src="https://img.shields.io/badge/Solidity-Security-111827?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img alt="Solidity Security" src="https://img.shields.io/badge/Solidity-Security-111827?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" />
   <img alt="DeFi Research" src="https://img.shields.io/badge/DeFi-Research-0F766E?style=for-the-badge" />
   <img alt="PoC Driven" src="https://img.shields.io/badge/PoC-Driven-7C3AED?style=for-the-badge" />
   <img alt="Digital Craftsman" src="https://img.shields.io/badge/Digital-Craftsman-2563EB?style=for-the-badge" />
@@ -63,16 +63,71 @@
 | WhiteChain | HackenProof | 4 days | 2026-05-13 to 2026-05-16 | 🔵 1 Info |
 | idOS | HackenProof | 4 days | 2026-05-20 to 2026-05-23 | 🔵 1 Info |
 
+## 🚧 Selected Projects
 
-## 📊 GitHub Stats
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| Project A | Security or tooling project placeholder. | Solidity, Foundry | Coming soon |
+| Project B | Backend or automation project placeholder. | Go, TypeScript | Coming soon |
+| Project C | Frontend or creator project placeholder. | React, Node.js | Coming soon |
 
-<p align="center">
-  <img height="165" alt="Max's GitHub stats" src="https://readme-stats-github.pages.dev/api?username=Max-wht&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img height="165" alt="Max's top languages" src="https://readme-stats-github.pages.dev/api/top-langs?username=Max-wht&layout=compact&theme=gruvbox&hide_border=true" />
+## 🧰 Languages and Tools
+
+**Security / Blockchain**
+
+<p align="left">
+  <img alt="Solidity" title="Solidity" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+  <img alt="Markdown" title="Markdown" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </p>
 
----
+**Backend**
+
+<p align="left">
+  <img alt="Go" title="Go" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img alt="Java" title="Java" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Spring" title="Spring" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="SQL" title="SQL" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img alt="TypeScript" title="TypeScript" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="JavaScript" title="JavaScript" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="React" title="React" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="HTML5" title="HTML5" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS3" title="CSS3" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</p>
+
+**Tooling**
+
+<p align="left">
+  <img alt="Git" title="Git" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Node.js" title="Node.js" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</p>
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <strong>Map the system. Prove the bug. Ship the report.</strong>
+  <img height="165" alt="Max's GitHub stats" src="https://readme-stats-github.pages.dev/api?username=Max-wht&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true" />
+  <img height="165" alt="Max's top languages" src="https://readme-stats-github.pages.dev/api/top-langs?username=Max-wht&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Max's GitHub streak" src="https://streak-stats.demolab.com?user=Max-wht&amp;theme=gruvbox&amp;hide_border=true&amp;card_width=830" />
+</p>
+
+<p align="center">
+  <img alt="Max's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Max-wht&amp;theme=github-compact&amp;hide_border=true&amp;radius=10&amp;custom_title=Contribution%20Flow&amp;area=true" />
+</p>
+
+| Signal | What it means |
+|---|---|
+| 🔥 Streak | Consistency and repeated shipping rhythm |
+| 📈 Activity graph | Recent coding and research activity across repositories |
+| 🧩 Language card | Practical stack mix, not a fixed identity |
+| 🛡️ Security reviews | Audit work is tracked separately from normal repo activity |
+
+<p align="center">
+  <img src="assets/stats-footer.svg" alt="Map the system. Prove the bug. Ship the report." width="100%" />
 </p>

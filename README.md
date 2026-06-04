@@ -1,37 +1,112 @@
-# 🛜 Max
-**`Digital Craftsman (Developer/Creator/collage student)`**
+<div align="center">
+  <img src="assets/profile-banner.svg" alt="Max - Solidity Security Researcher, Developer, Creator" width="100%" />
+</div>
 
-Don't seek for everything to happen as you wish it would, but rather wish that everything happens as it acturally will.
+<p align="center">
+  <a href="https://github.com/Max-wht?tab=followers">
+    <img alt="Follow Max on GitHub" title="Follow Max on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Max-wht?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+  </a>
+  <a href="https://github.com/Max-wht?tab=repositories&sort=stargazers">
+    <img alt="GitHub stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/Max-wht?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+  </a>
+  <img alt="Profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=Max-wht&style=for-the-badge&color=0e75b6" />
+</p>
 
- <p align="left">
-      <a href="https://github.com/Max-wht?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Max-wht?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Max-wht?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Max-wht?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="center">
+  <img alt="Solidity Security" src="https://img.shields.io/badge/Solidity-Security-111827?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img alt="DeFi Research" src="https://img.shields.io/badge/DeFi-Research-0F766E?style=for-the-badge" />
+  <img alt="PoC Driven" src="https://img.shields.io/badge/PoC-Driven-7C3AED?style=for-the-badge" />
+  <img alt="Digital Craftsman" src="https://img.shields.io/badge/Digital-Craftsman-2563EB?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <em>Don't seek for everything to happen as you wish it would, but rather wish that everything happens as it actually will.</em>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
-<img align="left" alt="golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<br />
+## 🧭 About Me
 
-#
+- 🛡️ Security researcher focused on Solidity, DeFi protocols, and business-flow analysis.
+- 🧪 I prefer PoC-backed validation over surface-level vulnerability lists.
+- 🧰 I build backend services, developer tools, and research workflows.
+- 🎓 Digital craftsman, developer, creator, and college student.
 
-### 📊 Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-wht&show_icons=true&theme=gruvbox)
+## 🔎 Current Focus
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Max-wht&theme=gruvbox&border_radius=4.5) -->
+| Area | What I care about |
+|---|---|
+| 🔐 Smart contract security | Business logic, accounting, access control, and state-machine failures |
+| 🌊 DeFi protocol review | Protocol flows, liquidation paths, oracle assumptions, and cross-contract effects |
+| 🧪 PoC validation | Reproducible tests, exploitability checks, and impact sizing |
+| 🛠️ Developer tooling | Backend systems, audit helpers, automation, and workflow design |
 
-#
+## 🛡️ Security Reviews
+
+<img src="assets/audit-workflow.svg" alt="Audit workflow: map, research, prove, triage, ship" width="100%" />
+
+### 🏁 Audit Contests
+
+| Audit Contest | Platform | Duration | Period | Result |
+|---|---|---:|---|---|
+| ChainLink Payment Abstract V2 | C4 | 7 days | 2026-03-19 to 2026-03-26 | 🧾 QA--B |
+| eStorm Liquid Position Plugin | HackenProof | 6 days | 2026-03-26 to 2026-04-02 | 🟠 1 Medium |
+| Monetrix | C4 | 7 days | 2026-04-25 to 2026-05-01 | 🧾 QA--B |
+| Reaserve Governor | Cantina | 4 days | 2026-05-05 to 2026-05-09 | 🟠 1 Medium |
+| Digbi2121 | HackenProof | 3 days | 2026-05-19 to 2026-05-21 | 🟢 3 Low |
+| Dreamx | HackenProof | 3 days | 2026-06-01 to 2026-06-03 | 🟠 4 Medium |
+
+### 🎯 Bug Bounty
+
+| Bounty | Platform | Duration | Period | Result |
+|---|---|---:|---|---|
+| WhiteChain | HackenProof | 4 days | 2026-05-13 to 2026-05-16 | 🔵 1 Info |
+| idOS | HackenProof | 4 days | 2026-05-20 to 2026-05-23 | 🔵 1 Info |
+
+## 🧰 Languages and Tools
+
+**Security / Blockchain**
+
+<p align="left">
+  <img alt="Solidity" title="Solidity" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+  <img alt="Markdown" title="Markdown" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+</p>
+
+**Backend**
+
+<p align="left">
+  <img alt="Go" title="Go" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img alt="Java" title="Java" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Spring" title="Spring" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="SQL" title="SQL" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img alt="TypeScript" title="TypeScript" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="JavaScript" title="JavaScript" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="React" title="React" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="HTML5" title="HTML5" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS3" title="CSS3" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</p>
+
+**Tooling**
+
+<p align="left">
+  <img alt="Git" title="Git" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Node.js" title="Node.js" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" alt="Max's GitHub stats" src="https://readme-stats-github.pages.dev/api?username=Max-wht&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img height="165" alt="Max's top languages" src="https://readme-stats-github.pages.dev/api/top-langs?username=Max-wht&layout=compact&theme=gruvbox&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Map the system. Prove the bug. Ship the report.</strong>
+</p>
